@@ -1,0 +1,57 @@
+#DeleteButton{
+    background-color: black;
+    color: white;
+    border: 1px ;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#EditButton{
+    background-color: black;
+    color: white;
+    border: 1px ;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+li{
+    list-style-type: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(228, 228, 228);
+    font-size: 16px
+
+}
+
+.forText{
+    width: 200px;
+    display: inline-block;
+}
+
+body{
+    background-color:gray;
+}
+
+#AddButttOn{
+    background-color: black;
+    color: white;
+    border: 1px ;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#ReMoveAll{
+    background-color: black;
+    color: white;
+    border: 1px ;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px; 
+}
+
+#_input01{
+    padding: 8px;
+    border-radius: 20px solid white;
+}
